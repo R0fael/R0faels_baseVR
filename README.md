@@ -1,8 +1,6 @@
 # R0fael's Base VR
 This is open source Base for gorilla tag fan games.
 
-![alt text](https://raw.githubusercontent.com/R0fael/R0faels_baseVR/main/images/3.png)
-
 This project have
 - best skin color table
 - name computer
@@ -22,7 +20,9 @@ Thanks for [Pear](https://www.youtube.com/@pear8737) for name computer script, b
 
 Thanks for Snowflake for 3d models
 
-## ScreenShots
+## Screenshots
+
+![alt text](https://raw.githubusercontent.com/R0fael/R0faels_baseVR/main/images/3.png)
 
 ![alt text](https://raw.githubusercontent.com/R0fael/R0faels_baseVR/main/images/1.png)
 
