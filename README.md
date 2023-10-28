@@ -1,4 +1,7 @@
 # R0fael's Base VR
+
+IF YOU USE CUSTOM CUSMETIC TYPE FROM HERE - THIS IS MAY CRUSH WHOLE GAME IN SOME CASES.
+
 This is open source Base for gorilla tag fan games.
 
 This project have
