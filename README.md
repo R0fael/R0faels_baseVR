@@ -17,7 +17,9 @@ I have 2 years experience of working in unity and 4 years in python.
 
 ## Credits
 Thanks for [Pear](https://www.youtube.com/@pear8737) for name computer script, but I modified 50% of it.
+
 Thanks for LUCKMONK for wind script
+
 Thanks for Super Ash Bois for the skybox
 
 Thanks for Snowflake for 3d models
