@@ -16,7 +16,7 @@ This project have
 ## Authors
 I am [@r0fael](https://www.github.com/R0fael), creator of this project and developer of [Monkie horror](https://discord.gg/wn79QWqfV5) and Human reverse.
 
-I have 2 years experience of working in unity and 4 years in python.
+I have 3 years experience of working in unity and 4 years in python.
 
 ## Credits
 Thanks for [Pear](https://www.youtube.com/@pear8737) for name computer script, but I modified 50% of it.
